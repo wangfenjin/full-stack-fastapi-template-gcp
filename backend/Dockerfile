@@ -1,3 +1,4 @@
+# syntax=docker/dockerfile:1.14.0
 FROM python:3.10
 
 ENV PYTHONUNBUFFERED=1
